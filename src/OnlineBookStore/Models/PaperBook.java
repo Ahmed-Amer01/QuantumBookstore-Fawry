@@ -40,7 +40,7 @@ public class PaperBook extends Book implements Sellable, Shippable {
 	@Override
 	public void reduceQuantity(int amount) {
 		if (amount > this.quantity) {
-			throw new IllegalArgumentException("Not enough stock");
+			throw new IllegalArgumentException("Quantum book store: Not enough stock");
 		}
 		this.quantity -= amount;
 	}
