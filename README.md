@@ -35,3 +35,6 @@ Book Types:
 | PaperBook  | ✅       | ✅       | ❌        | ✅   |
 | EBook      | ✅       | ❌       | ✅        | ❌   |
 | DemoBook   | ❌       | ❌       | ❌        | ❌   |
+---------------------------------------------------------
+
+![Screenshot](https://github.com/user-attachments/assets/6fda1351-bcbb-43f0-9cbe-9a801292e4c2)
