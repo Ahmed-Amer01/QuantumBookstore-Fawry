@@ -33,7 +33,7 @@ public class BookStoreService {
 		if (book instanceof Shippable) {
 			((Shippable) book).reduceQuantity(amount);
 			shipping = ((Shippable) book).getShippingPrice(book, amount);
-			System.out.println("Quantum book store: Shipping " + book.getISBN() + " to " + address);
+			System.out.println("Quantum book store: Shipping " + amount + " " + book.getISBN() + " to " + address);
 		} else if (book instanceof Sellable) {
 			System.out.println("Quantum book store: Sending " + book.getISBN() + " to " + email);
 		}
