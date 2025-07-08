@@ -29,12 +29,12 @@ It is an online book store with the following:
       ○ Send EBook to MailService with the email provided (no implementation required) add field author name to the book 
 
 Book Types:
----------------------------------------------------------
-| Type       | Sellable | Shippable | Emailable | Stock |
-|------------|----------|-----------|-----------|-------|
-| PaperBook  | ✅       | ✅       | ❌        | ✅   |
-| EBook      | ✅       | ❌       | ✅        | ❌   |
-| DemoBook   | ❌       | ❌       | ❌        | ❌   |
----------------------------------------------------------
+---------------------------------------------
+| Type       | Sellable | Shippable | Stock |
+|------------|----------|-----------|-------|
+| PaperBook  | ✅       | ✅       | ✅     |
+| EBook      | ✅       | ❌       | ❌     |
+| DemoBook   | ❌       | ❌       | ❌     |
+---------------------------------------------
 
 ![Screenshot](https://github.com/user-attachments/assets/bf385242-8de9-4b67-8877-a93520e3c964)
