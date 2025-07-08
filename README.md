@@ -37,4 +37,4 @@ Book Types:
 | DemoBook   | ❌       | ❌       | ❌        | ❌   |
 ---------------------------------------------------------
 
-![Screenshot](https://github.com/user-attachments/assets/6fda1351-bcbb-43f0-9cbe-9a801292e4c2)
+![Screenshot](https://github.com/user-attachments/assets/bf385242-8de9-4b67-8877-a93520e3c964)
